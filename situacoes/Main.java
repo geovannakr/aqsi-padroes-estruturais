@@ -1,3 +1,4 @@
+package situacoes;
 import situacoes.adapter.adapters.NotificationAdapter;
 import situacoes.adapter.interfaces.NotificationInterface;
 
